@@ -31,4 +31,4 @@ Satellite view interface can show satellite image only when the tracked satellit
   - Available only in full screen
 
 
-**[Back to Index](Index.md)**
+**[Back to Index](index.md)**
