@@ -14,4 +14,4 @@ Satellite view interface can show satellite image only when the tracked satellit
 
 2. View Filter
 
-![View Filter](img/sat_view_filter.png)
+![View Filter](img/sat_view_filter.jpg)
