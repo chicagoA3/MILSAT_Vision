@@ -1,3 +1,4 @@
-# MILSAT Vision - Satellite View
+# MILSAT Vision - Documentation
+### Satellite View
 
 ![](img/sat_view_tab.png)
