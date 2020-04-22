@@ -16,3 +16,9 @@ MILSAT Vision or Military Satellite Communication System as it can be referred i
   - Gain loss, rain attenuation and wind load
 - Blue Force Tracker (BFT)
 - Satellite sensor output as a view filter
+  - Thermal Infrared Sensor (TIRS)
+  - Operational Land Imager (OLI)
+  - Multispectral Scanner (MSS)
+  - Thematic Mapper (TM)
+
+#### Manual
