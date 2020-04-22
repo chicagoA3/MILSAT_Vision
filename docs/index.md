@@ -1,9 +1,4 @@
 # MILSAT Vision - Documentation
 > ### Satellite View
 
-MILSAT Vision or Military Satellite Communication System as it can be referred is a module for Arma 3 which provides real time satellite imagery to a player.
-
-
-
-
-`test`
+MILSAT Vision or Military Satellite Communication System as it can be referred is a module for Arma 3 which provides real time satellite imagery to a player. Every part of this module is created to its real counter part but it's not meant to be fully realistic as it's not in my power and it was meant to have fun while plaing the game.
