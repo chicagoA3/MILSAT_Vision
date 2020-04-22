@@ -6,4 +6,6 @@ Radio spectrum interface is used for setting up and adjusting satellite frequenc
 ![Radio Spectrum](img/sat_radio_spectrum_tab.png)
 
 1. Frequency ports
-   - F1 - 
+   - F1 - Main frequency port for satellite view downlink
+   - F2 - Second frequency port for SAR Radar downlink
+2. List of available frequencies - `by selecting, the frequency is set as active`
