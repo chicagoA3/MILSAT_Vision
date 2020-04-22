@@ -31,3 +31,5 @@ Radio spectrum interface is used for setting up and adjusting satellite frequenc
     - The icon is shown when the both frequency ports (F1 and F2) are active and the satellite link is established
 12. Indicator when the frequency sound is muted
 13. Logarithmic signal strength scale
+
+**[Back to Index](index.md)**
