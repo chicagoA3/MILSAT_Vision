@@ -11,8 +11,10 @@ Blue force tracking is available only in full screen mode, due to higher spatial
    - Radio call sign
    - Grid position at the map
 4. Center to Unit button - `centers satellite view on the selected group or unit`
-
-
+5. Hide Symbols button - `hides or shows military symbols`
+6. COM Info - `provides information about FIA radar and GPS status`
+7. Map Control - `it can be used to redefine the satellite view position by left clicking`
+8. View Filter
 
 ![View Filter](img/sat_view_filter.jpg)
 - Thermal Infrared Sensor (TIRS) thermograph
@@ -29,6 +31,8 @@ Blue force tracking is available only in full screen mode, due to higher spatial
   - Available only in full screen
 - [Thematic Mapper (TM)](https://landsat.gsfc.nasa.gov/the-thematic-mapper/)
   - Available only in full screen
+  
+9. Close full screen mode and return to satellite view in tablet interface
 
 
 **[Back to Index](index.md)**
