@@ -11,3 +11,12 @@ Radio spectrum interface is used for setting up and adjusting satellite frequenc
 2. List of available frequencies - `by selecting, the frequency is set as active`
 3. Spectrum analyzer info
    - CT - Center Frequency is shown in spectrum analyzer as red vertical line
+   - SP - Frequency Span
+4. Antenna button
+5. Mute button
+6. SP Analyzer - Frequency settings
+   - Gain and Threshold are automatically set to default values after antenna selection
+   - Adjust within the range of gain and threshold to maintain satellite link open 
+7. Selected frequency
+8. [Bandwidth](https://en.wikipedia.org/wiki/Bandwidth_(signal_processing))
+   - Available range is 10 MHz, 50 MHz, 250 MHz and 500 MHz
