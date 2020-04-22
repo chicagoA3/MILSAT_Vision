@@ -1,7 +1,7 @@
 # MILSAT Vision - Documentation
 > ### Satellite View - Blue Force Tracker (BFT)
 
-Satellite view interface can show satellite image only when the tracked satellite is in the coverage range and the satellite link is established. If one of the arguments is not met, the empty screen `ERROR! No data transmitted. There is not satellite coverage or the link is closed` is showed.
+Blue force tracking is available only in full screen mode, due to higher spatial resolution, and it provides military commanders and forces with location information about friendly and hostile military forces. NATO military symbology is used. There must be established FIA radar link for correct display of military symbols.
 
 ![BFT](img/sat_full_view.png)
 
@@ -25,5 +25,5 @@ Satellite view interface can show satellite image only when the tracked satellit
 - [Thematic Mapper (TM)](https://landsat.gsfc.nasa.gov/the-thematic-mapper/)
   - Available only in full screen
 
-
+`test`
 **[Back to Index](index.md)**
