@@ -23,3 +23,5 @@ Satellite tracker interface is tracking all the available satellites. The positi
 7. Antenna Tracker (antenna settings)
 8. Autotrack button - `sets the antenna to point into a direction of the satellite`
 9. Set button - `sets the antenna to point into a given direction`
+
+**[Back to Index](index.md)**
