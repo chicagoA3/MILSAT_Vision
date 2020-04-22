@@ -1,1 +1,4 @@
-# MILSAT Vision for Arma 3 - Documentation
+# MILSAT Vision - Documentation
+
+
+Military Satellite Communication System
