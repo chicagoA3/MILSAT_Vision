@@ -12,4 +12,5 @@ MILSAT Vision or Military Satellite Communication System as it can be referred i
   - Doppler Frequency Shift
   - Full-duplex emulation
   - Adjusting satellite system link
-- Antennas modeled
+- Antennas suited for satellite signal transmission 
+  - Gain loss, rain attenuation and wind load
