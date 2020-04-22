@@ -6,7 +6,8 @@ Blue force tracking is available only in full screen mode, due to higher spatial
 ![BFT](img/sat_full_view.png)
 
 1. Tracked groups / units in current scope
-8. View Filter
+
+
 
 ![View Filter](img/sat_view_filter.jpg)
 - Thermal Infrared Sensor (TIRS) thermograph
