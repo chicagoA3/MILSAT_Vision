@@ -9,4 +9,4 @@ Satellite tracker interface is tracking all the available satellites. The positi
 2. List of available satellites
 3. Info of satellite parameters
    - Position at the world map: Latitude (LAT) and Longitude (LON)
-   - Orbit Period - time required to complete exactly one orbit
+   - Orbit Period - `time required to complete exactly one orbit`
