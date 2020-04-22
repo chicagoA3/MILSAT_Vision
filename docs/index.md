@@ -23,3 +23,4 @@ MILSAT Vision or Military Satellite Communication System as it can be referred i
 
 #### Manual
 1. [Satellite view](sat_view_tab.md)
+2. [Satellite View - Blue Force Tracker (BFT)](sat_full_view.md)
