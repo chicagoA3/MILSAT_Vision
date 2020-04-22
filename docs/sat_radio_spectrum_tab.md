@@ -27,3 +27,4 @@ Radio spectrum interface is used for setting up and adjusting satellite frequenc
       - 0 - 3 dB `Link Closes`
       - 3 - 6 dB `Marginal Link`
       - 6 - 16 dB `Link Closes`
+11. Full-duplex emulation - TDD
