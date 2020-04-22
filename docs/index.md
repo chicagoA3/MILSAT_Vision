@@ -14,3 +14,5 @@ MILSAT Vision or Military Satellite Communication System as it can be referred i
   - Adjusting satellite system link
 - Antennas suited for satellite signal transmission 
   - Gain loss, rain attenuation and wind load
+- Blue Force Tracker (BFT)
+- Satellite sensor output as a view filter
