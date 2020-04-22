@@ -22,3 +22,4 @@ MILSAT Vision or Military Satellite Communication System as it can be referred i
   - Thematic Mapper (TM)
 
 #### Manual
+1. [Satellite view](docs/sat_view_tab.md)
