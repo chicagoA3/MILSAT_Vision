@@ -1,13 +1,12 @@
 # MILSAT Vision - Documentation
 > ### Satellite View - Blue Force Tracker (BFT)
 
-Blue force tracking is available only in full screen mode, due to higher spatial resolution, and it provides military commanders and forces with location information about friendly and hostile military forces. NATO military symbology is used. There must be established FIA radar link for correct display of military symbols.
+Blue force tracking is available only in full screen mode, due to higher spatial resolution, and it provides military commanders and forces with location information about friendly and hostile military forces. NATO military symbology is used. There must be established FIA radar link for correct display of military symbols. Icon type is set by the tracker and it can't be changed for now.
 
 ![BFT](img/sat_full_view.png)
 
-1. 
-
-2. View Filter
+1. Tracked groups / units in current scope
+8. View Filter
 
 ![View Filter](img/sat_view_filter.jpg)
 - Thermal Infrared Sensor (TIRS) thermograph
