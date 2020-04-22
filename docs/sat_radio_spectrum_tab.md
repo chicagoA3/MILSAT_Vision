@@ -27,4 +27,7 @@ Radio spectrum interface is used for setting up and adjusting satellite frequenc
       - 0 - 3 dB `Link Closes`
       - 3 - 6 dB `Marginal Link`
       - 6 - 16 dB `Link Closes`
-11. Full-duplex emulation - TDD
+11. [Full-duplex emulation](https://en.wikipedia.org/wiki/Duplex_(telecommunications)) icon - Time-division duplexing (TDD) - `must be active for Blue Force Tracking (BFT) system to work`
+    - The icon is shown when the both frequency ports (F1 and F2) are active and the satellite link is established
+12. Indicator when the frequency sound is muted
+13. Logarithmic signal strength scale
