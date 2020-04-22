@@ -8,6 +8,7 @@ The usable antennas are searched within a radius sphere to player's position. Th
 1. List of available antennas
    - Gain shown according selected frequency band
 2. Current antenna (with unique id)
-3. Select button - 
+3. Select an antenna from the list
+4. Close the antenna window
 
 **[Back to Index](index.md)**
