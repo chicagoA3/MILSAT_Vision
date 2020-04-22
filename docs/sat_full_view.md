@@ -5,7 +5,12 @@ Blue force tracking is available only in full screen mode, due to higher spatial
 
 ![BFT](img/sat_full_view.png)
 
-1. Tracked groups / units in current scope
+1. Tracked groups or units in current scope
+2. All tracked groups or units at the map
+3. Info about group or unit
+   - Radio call sign
+   - Grid position at the map
+4. Center to Unit button - `centers satellite view on the selected group or unit`
 
 
 
@@ -25,5 +30,5 @@ Blue force tracking is available only in full screen mode, due to higher spatial
 - [Thematic Mapper (TM)](https://landsat.gsfc.nasa.gov/the-thematic-mapper/)
   - Available only in full screen
 
-`test`
+
 **[Back to Index](index.md)**
