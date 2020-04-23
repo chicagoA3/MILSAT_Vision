@@ -1,7 +1,7 @@
 # MILSAT Vision
 Military Satellite Communication System for Arma 3
 
-[![](https://img.shields.io/badge/Documentation-Index-lightgrey)]()
+[![]https://img.shields.io/badge/Documentation-Index-yellowgreen)]()
 
 # Licence
 ![](https://www.bohemia.net/assets/img/licenses/APL-SA.png)
