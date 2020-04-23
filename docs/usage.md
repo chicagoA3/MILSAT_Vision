@@ -17,4 +17,6 @@ First runing MILSAT Vision automatically establish satellite link with the satel
 
 1. Selection of a satellite in the coverage over the user position must be done, see [Satellite Tracker](sat_tracker_tab.md)
 2. Antenna must be pointing into the satellite direction
-3. Satellite System Link must be established, see [Radio Spectrum Analyzer](sat_radio_spectrum_tab.md)
+3. Satellite System Link must be established and open, see [Radio Spectrum Analyzer](sat_radio_spectrum_tab.md)
+
+**[Back to Index](index.md)**
