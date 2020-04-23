@@ -23,9 +23,10 @@ MILSAT Vision or Military Satellite Communication System as it can be referred i
 
 #### Manual
 1. [Installation]()
-2. [Usage]()
+2. [Usage](usage.md)
 3. [Satellite view](sat_view_tab.md)
 4. [Satellite View - Blue Force Tracker (BFT)](sat_full_view.md)
 5. [Satellite Tracker](sat_tracker_tab.md)
 6. [Radio Spectrum Analyzer](sat_radio_spectrum_tab.md)
 7. [Antenna Configuration](sat_antenna_tab.md)
+8. [Console]()
