@@ -22,8 +22,10 @@ MILSAT Vision or Military Satellite Communication System as it can be referred i
   - Thematic Mapper (TM)
 
 #### Manual
-1. [Satellite view](sat_view_tab.md)
-2. [Satellite View - Blue Force Tracker (BFT)](sat_full_view.md)
-3. [Satellite Tracker](sat_tracker_tab.md)
-4. [Radio Spectrum Analyzer](sat_radio_spectrum_tab.md)
-5. [Antenna Configuration](sat_antenna_tab.md)
+1. [Installation]()
+2. [Usage]()
+3. [Satellite view](sat_view_tab.md)
+4. [Satellite View - Blue Force Tracker (BFT)](sat_full_view.md)
+5. [Satellite Tracker](sat_tracker_tab.md)
+6. [Radio Spectrum Analyzer](sat_radio_spectrum_tab.md)
+7. [Antenna Configuration](sat_antenna_tab.md)
